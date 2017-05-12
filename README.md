@@ -66,3 +66,4 @@ Awesome list of `now.sh` deployments.
 
 * [webtorrentify.now.sh](https://webtorrentify.now.sh/) -> Auto-generate `.torrent` files from "normal" URLs.
 
+* [babel.now.sh](https://babel.now.sh/) -> Compile ES2015+ code to support just visitor's browser.
